@@ -1,0 +1,53 @@
+body {
+    font-size: 15px;
+    line-height: 1.5em;
+    background: #ccc;
+}
+
+
+.Shouts-section .container{
+    background: #333333;
+    margin: 40px auto;
+    width: 60%;
+    color: #fff;
+    overflow: auto;
+    min-height: 400px;
+}
+
+.Shouts-section .header {
+    width: 100%;
+     
+} 
+.Shouts-section .header h2{
+    text-align: center;
+    font-size: 22px;
+    padding: 15px 0 10px 10px;
+    border-bottom: 2px solid #e0e1e2;
+}
+.shouts{
+    width: 90%;
+    background: #f4f4f4;
+    height: 400px;
+    margin: 20px auto;
+    overflow: auto;    
+}
+.shouts ul li{
+    padding: 8px;
+    color: #555;
+    border-bottom: 1px solid #ccc;
+}
+.shouts ul li span{
+    color:#aaaaaa;
+}
+
+.Shouts-section .form .form-inline input[type="text"] {
+    width:45%;
+    margin-top: 10px;
+    margin-bottom:10px; 
+}
+.Shouts-section  .btn-primary{
+    display:inline-block;
+    margin: 10px 0;
+    width: 150px;
+}
+
